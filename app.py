@@ -1,4 +1,6 @@
-
+git add requirements.txt
+git commit -m "Added plotly to requirements.txt"
+git push
 import streamlit as st
 import plotly.graph_objects as go
 
